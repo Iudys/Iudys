@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, Devs! ☕
 
-<!--
-**Iudys/Iudys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Iuri Guimarães, sou brasileiro e estudante no Instituto Federal da Bahia na Graduação em Jogos Digitais.
 
-Here are some ideas to get you started:
+Sou entusiasta em criação, resolução de problemas e sempre estou disposto a participar de algum projeto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💡 “Sem disciplina, o talento não serve para nada” 😎
+
+- 📍 Bahia
+- 📚 Estudante
+
+
+ [![Linkedin Badge](https://img.shields.io/badge/-IuriGuimaraes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-gabriel-433312b6/)](https://www.linkedin.com/in/iuri-guimaraes-bba693189/) [
+![Gmail Badge](https://img.shields.io/badge/-iuri.guimaraes1992@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gsantana152@gmail.com)](mailto:iuri.guimaraes1992@gmail.com) 
